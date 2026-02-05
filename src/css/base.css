@@ -59,7 +59,3 @@ body {
   color: var(--color-scheme-1-text);
   background: var(--color-scheme-1-background);
 }
-
-main {
-  flex-grow: 1;
-}
