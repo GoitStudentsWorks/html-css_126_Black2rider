@@ -199,7 +199,7 @@
   .subscribe > .container {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
   }
 
   .subscr-form {
@@ -221,7 +221,7 @@
     flex: 0 0 640px;
     width: 640px;
     height: 400px;
-    margin-left: 32px;
+    margin-top: 0;
   }
 
   .agree-text {
